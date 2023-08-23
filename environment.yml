@@ -1,0 +1,9 @@
+name: llm-template # name of the environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipykernel # required for jupyter notebook in VS Code
+  - pip  # if you need more packages installed from pip
+  - pip:
+    - -r requirements.txt

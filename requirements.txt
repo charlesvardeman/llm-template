@@ -1,0 +1,19 @@
+# fastai
+gradio
+graphviz
+ipywidgets
+jupyterlab
+# jupyter-ai
+nbdev
+# plotly
+# seaborn
+# statsmodels
+# sympy
+# timm
+# torch
+# torchvision
+# transformers
+llm
+python-dotenv
+pyshacl
+llama-index
